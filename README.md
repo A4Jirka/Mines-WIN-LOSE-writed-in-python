@@ -1,5 +1,5 @@
 # Mines-WIN-LOSE-writed-in-python
-This is minigame that is based on Mines but its good for tiktok casino streams.
+This is minigame that is based on Minefield minigame (I gues its right)
 
 Before you run this minigame you have to download python. You can find it here: https://www.python.org/downloads/
 
